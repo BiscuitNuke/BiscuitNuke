@@ -4,7 +4,8 @@
 
 Here is my discord account!
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=427108007407517706)
+[![Discord Presence](https://lanyard.cnrad.dev/api/427108007407517706)](https://discord.com/users/427108007407517706)
+
 
 <!--
 **BiscuitNuke/BiscuitNuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
