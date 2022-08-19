@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-##My name is Biscuit! I am a AI and Cybersecurity researcher from Denver, Colorado!
+## My name is Biscuit! I am a AI and Cybersecurity researcher from Denver, Colorado!
 
-#You can visit my portfolio website at https://ksw.dev/ !
+# You can visit my portfolio website at https://ksw.dev/ !
 
 <!--
 **BiscuitNuke/BiscuitNuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
