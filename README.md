@@ -1,23 +1,9 @@
-# Hello! My name is Biscuit, and I am a AI and Cybersecurity researcher from Denver, Colorado!
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=BiscuitNuke&show_icons=true)
+<div id="header" align="center">
+  <img src="https://avatars.githubusercontent.com/u/64026226?v=4" width="100"/>
+
+  <h1> Hello! My name is Biscuit, and I am a AI and Cybersecurity researcher from Denver, Colorado! </ h1>
+</div>
+
+![Biscuit's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiscuitNuke&show_icons=true&theme=codeSTACKr)[![Discord Presence](https://lanyard.cnrad.dev/api/427108007407517706)](https://discord.com/users/427108007407517706)
+
 ## You can visit my portfolio website at https://ksw.dev/ !
-
-Here is my discord account!
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/427108007407517706)](https://discord.com/users/427108007407517706)
-
-
-<!--
-**BiscuitNuke/BiscuitNuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
